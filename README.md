@@ -2,7 +2,7 @@
 Nyalain PC Pake E-KTP
 
 | PIN RFID RC 522  | PIN ESP8266 |
-| ------------- | ------------- |
+| --- | --- |
 | SDA  | D4  |
 | SCK  | D5  |
 | MOSI  | D7  |
@@ -13,7 +13,7 @@ Nyalain PC Pake E-KTP
 | 3.3V  | 3.3V  |
 
 | PIN RELAY  | PIN ESP8266 |
-| ------------- | ------------- |
+| --- | --- |
 | VCC  | 3.3V  |
 | GND  | GND  |
 | IN  | D1  |
