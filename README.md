@@ -58,7 +58,7 @@ Langkah Langkah :
   ![image](https://github.com/ngulikom/EKTP-PC/assets/147029014/307bd217-33ee-405c-9f5c-694844a9e571)
 
   
-- nah kalian upload ulang si programnya dan kalian tinggal sambungin jumper yang dari relay ke motherboard kalian dan kalian bisa nyalain pc kalian pake ktp!!
+- nah kalian upload ulang si programnya dan kalian tinggal sambungin jumper yang dari relay pin NO dan pin COM ke motherboard kalian, kalo misal kebalik logicnya kalian tinggal tuker pin NO nya disambungin ke NC dan kalian bisa nyalain pc kalian pake ktp!!
 
 oke sob semoga eskperimen kalian lancar jaya, sampai jumpa di konten lainnya, salam ngulik!!
 
