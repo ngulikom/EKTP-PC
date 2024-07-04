@@ -42,10 +42,26 @@ Langkah Langkah :
 ![ktp fix](https://github.com/ngulikom/EKTP-PC/assets/147029014/b10f41c8-8209-454b-89ba-a2f591f8b81b)
 
 - nah kalian download dan buka file EKTP-PC.ino yang ada di repository ini
-- nah kalian pertama harus cocokin nomor rfid di ktp kalian ato UID di bagian program yang ini
-![image](https://github.com/ngulikom/EKTP-PC/assets/147029014/01b7f76a-73a0-40ec-b4c6-6a2753dcdba7)
+- nah kalian pertama harus cocokin nomor rfid di ktp kalian ato UID di bagian program yang ini, dan kita bakal pake 4 byte pertama UID KTP kita, kalo kalian mau dimasukin semuanya sih boleh boleh aja (di ktp mamang kedeteknya 6 byte soalnya), tinggal tambah 0X didepan ID kalian
+![image](https://github.com/ngulikom/EKTP-PC/assets/147029014/3d2bbc9f-023a-4cfa-b2b2-443b9b91d41f)
 
-- nah kalian upload dulu program yang udah ada, kalo udah beres upload trus kalian bisa cek di serial monitor uid nya berapa
-![image](https://github.com/ngulikom/EKTP-PC/assets/147029014/e60692f1-6fe7-4415-a434-53ec37f00367)
+
+- nah kalian upload dulu program yang udah ada, kalo udah beres upload trus kalian bisa cek di serial monitor uid nya berapa waktu kalian tempel KTP kalian ke sensor RFID RC 522nya
+![image](https://github.com/ngulikom/EKTP-PC/assets/147029014/b124d300-8edf-4e2f-a46e-af20aa9d55f3)
+
+![image](https://github.com/ngulikom/EKTP-PC/assets/147029014/336345df-19c6-4b16-8fb6-f0fa9762a8e0)
+
+- nah kalian ganti UID yang di program sama yang muncul di serial monitor kalian jadi nanti kaya gini
+![image](https://github.com/ngulikom/EKTP-PC/assets/147029014/dd8458a4-a875-486d-96a5-9dd63a10a503)
+
+- dan kita coba tes apakah UID yang sekarang bisa kedeteksi buat nyalain relaynya, kalian bisa liat di serial monitor ato pantengin aja lampu relaynya ngedip engga
+  ![image](https://github.com/ngulikom/EKTP-PC/assets/147029014/307bd217-33ee-405c-9f5c-694844a9e571)
+
+  
+- nah kalian upload ulang si programnya dan kalian tinggal sambungin jumper yang dari relay ke motherboard kalian dan kalian bisa nyalain pc kalian pake ktp!!
+
+oke sob semoga eskperimen kalian lancar jaya, sampai jumpa di konten lainnya, salam ngulik!!
+
+
 
 
