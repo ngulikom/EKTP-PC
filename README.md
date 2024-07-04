@@ -17,4 +17,5 @@ Nyalain PC Pake E-KTP
 | VCC  | 3.3V  |
 | GND  | GND  |
 | IN  | D1  |
+
 ![ktp fix](https://github.com/ngulikom/EKTP-PC/assets/147029014/b10f41c8-8209-454b-89ba-a2f591f8b81b)
