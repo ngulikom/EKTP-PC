@@ -1,7 +1,7 @@
 # EKTP-PC
 Nyalain PC Pake E-KTP
 
-| PIN RFID RC 522  | PIN ESP8266 |
+| PIN RFID RC 522 | PIN ESP8266 |
 | --- | --- |
 | SDA  | D4  |
 | SCK  | D5  |
